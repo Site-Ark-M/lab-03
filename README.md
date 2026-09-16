@@ -2,7 +2,7 @@
 
 ## Student Details
 
-- **Full Name:** `<Liam Hann`
+- **Full Name:** `Liam Hann`
 - **CCID:** `lhann`
 
 ## References and Resources
